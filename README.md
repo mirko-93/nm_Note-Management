@@ -1,4 +1,4 @@
-# nm_Note-Management
+# Note-Management
 
 # Description:
 nm is a note management system, designed to work from the command line, it simplifies the storage of information and optimizes the search for it.
